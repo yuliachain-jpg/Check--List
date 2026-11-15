@@ -15,9 +15,10 @@
 Поля "Имя", "Email", "Password", "Confirm Password", Кнопка Регистрации]
 (https://github.com/yuliachain-jpg/Check--List/issues/1)
 
-Профиль пользователя
+[Профиль пользователя
 Android
-Отображение данных, валидация полей, кнопка "Сохранить", клавиатура, поворот экрана
+Отображение данных, валидация полей, кнопка "Сохранить", клавиатура, поворот экрана]
+(https://github.com/yuliachain-jpg/Check--List/issues/4)
 
 Игровой уровень
 Mobile
