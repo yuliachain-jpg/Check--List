@@ -11,8 +11,9 @@
 Что проверяется
 
 Регистрация
-Web / Mobile
-Поля "Имя", "Email", "Password", "Confirm Password", Кнопка Регистрации
+[Web / Mobile
+Поля "Имя", "Email", "Password", "Confirm Password", Кнопка Регистрации]
+(https://github.com/yuliachain-jpg/Check--List/issues/1)
 
 Профиль пользователя
 Android
